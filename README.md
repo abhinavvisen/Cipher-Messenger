@@ -1,2 +1,2 @@
 # Cipher-Messenger
-A messenger application which encrypts and decrypts the message from one user to another.
+A messenger application which encrypts and decrypts the message from one user to another.It uses a Hashing function called MD5 hashing which encrypts the data and decrypts the data with the help of a key which is known to both the users. It is beginner version of the messenger as it is created using data structures in c++.It has various applications such as for safe communication flow without the involvement of any third party. 
